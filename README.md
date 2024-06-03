@@ -1,2 +1,2 @@
 # ml_experiment
-ML learning Notebook
+This repository is for my machine learning experiments and learning.
