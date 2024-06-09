@@ -9,3 +9,6 @@ This repo is used exclusively for learning and testing purposes.
 ### Ensemble Learning and Random Forest
 - [Random Forest Regerssor](RandomForestRegressor.ipynb)
 - [Gradient Boosting Regressor](GradientBoostingRegressor.ipynb)
+
+### Dimension reduction and compression methods
+- [Principal component analysis](Principal%20component%20analysis%20(PCA).ipynb)
