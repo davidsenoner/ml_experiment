@@ -7,7 +7,8 @@ This repo is used exclusively for learning and testing purposes.
 - [SDGRegressor](SGDRegressor.ipynb)
 
 ### Ensemble Learning and Random Forest
-- [Random Forest Regerssor](RandomForestRegressor.ipynb)
+- [Random Forest Regressor](RandomForestRegressor.ipynb)
+- [Random Forest Classifier](RandomForestClassifier_mnist_784.ipynb)
 - [Gradient Boosting Regressor](GradientBoostingRegressor.ipynb)
 
 ### Dimension reduction and compression methods
